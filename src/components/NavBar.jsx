@@ -14,7 +14,7 @@ const NavBar = () => (
         sx={{ position: 'sticky', background: '#0f0f0f', top: 0, justifyContent: 'space-between' }}
   >
     <Link to="/" style={{ display: 'flex', alignItems: 'center' }}>
-      <img src={logo} alt="logo" height={45}/>
+      <img class="logo" src={logo} alt="logo" height={45}/>
       <h1>UTube</h1>
     </Link>
     <SearchBar/>

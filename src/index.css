@@ -82,6 +82,8 @@ h1{
   }
 }
 
+
+
 @media screen and (max-width: 600px) {
   .scroll-horizontal {
     overflow: auto !important;
@@ -98,5 +100,12 @@ h1{
 @media screen and (max-width: 460px){
   .search-bar{
     width:100px;
+  }
+  h1{
+    font-size: 20px;
+  }
+  .logo{
+    width: 30px;
+    height: 30px;
   }
 }
