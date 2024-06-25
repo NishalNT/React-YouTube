@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-    https://github.com/NishalNT/React-YouTube.git
+   https://github.com/NishalNT/React-YouTube.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -53,9 +53,6 @@ To run this project locally, follow these steps:
 - Click on a video thumbnail to play the video
 - Enjoy a YouTube-like experience in a React environment
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
