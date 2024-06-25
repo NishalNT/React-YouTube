@@ -1,4 +1,6 @@
-# React YouTube Clone ![YtYoutubeGIF](https://github.com/NishalNT/React-YouTube/assets/109665992/74a9fd5a-fd9d-4ff6-b8c4-afb100204dc2)
+# React YouTube Clone 
+
+![YtYoutubeGIF](https://github.com/NishalNT/React-YouTube/assets/109665992/74a9fd5a-fd9d-4ff6-b8c4-afb100204dc2)
 
 
 This project is a YouTube clone built using React, leveraging the power of Material-UI for styling and React Video Player for video playback. It utilizes the YouTube API to fetch and display video content.
